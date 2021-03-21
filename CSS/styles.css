@@ -1,0 +1,157 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  height: auto;
+  width: 1440px;
+  background-color: hsl(229, 57%, 11%);
+}
+
+.bkgd {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.left-box {
+  background-color: hsl(228, 56%, 26%);
+  height: 10rem;
+  width: 20rem;
+  position: absolute;
+  padding-left: 2rem;
+  padding-top: 1.5rem;
+  border-radius: .75rem 5rem .75rem .75rem;
+  top: 15rem;
+  left: 22rem;
+}
+
+.right-box {
+  font-size: 14px;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  background-color: hsl(228, 56%, 26%);
+  height: 8rem;
+  width: 31rem;
+  position: absolute;
+  padding-left: 2rem;
+  padding-top: 1.5rem;
+  border-radius: .75rem;
+  top: 17rem;
+  left: 45rem;
+}
+
+.left-imgs {
+  position: absolute;
+  bottom: 2rem;
+  left: 2rem;
+}
+
+.aa {
+  height: 3rem;
+  width: 3rem;
+  padding: .75rem;
+  border: none;
+  border-radius: .5rem;
+  background: hsl(229, 57%, 11%);
+  position: absolute;
+  bottom: 1.25rem;
+}
+
+.aa:hover {
+  background-color: hsl(229, 7%, 55%);
+}
+
+.folder {
+  position: absolute;
+  left: 4rem;
+}
+
+.up {
+  position: absolute;
+  left: 8rem;
+}
+
+.attribution {
+
+  position: absolute;
+  bottom: 2rem;
+  text-align: center;
+  width: 100%;
+  color: white;
+  line-height: 2;
+  font-family: 'Raleway', sans-serif;
+}
+
+a:hover {
+  color: hsl(243, 100%, 93%);
+}
+
+.usage {
+  margin-top: 1.275rem;
+  height: 1rem;
+  width: 27rem;
+  background-color: hsl(229, 57%, 11%);
+  border-radius: .5rem;
+}
+
+.insider {
+  position: absolute;
+  top: 4.8rem;
+  left: 2.175rem;
+  height: .8rem;
+  width: 22.005rem;
+  background-image: linear-gradient(to right, hsl(6, 100%, 80%), hsl(335, 100%, 65%));
+  border-radius: .4rem;
+}
+
+.dott {
+  width: .6rem;
+  height: .6rem;
+  border-radius: .3rem;
+  background-color: white;
+  margin-left: 21.3rem;
+  margin-top: .08rem;
+}
+
+.gb {
+  height: 3.5rem;
+  width: 10rem;
+  background-color: white;
+  position: absolute;
+  border-radius: 0.5rem;
+  left: 21rem;
+  bottom: 7.5rem;
+  color: hsl(229, 7%, 55%);
+  font-size: 9px;
+  text-align: center;
+  letter-spacing: 1px;
+  padding-top: .5rem;
+}
+
+.bolded {
+  font-size: 30px;
+  font-weight: 700;
+  color: black;
+}
+
+.tri {width: 0;
+	height: 0;
+	border-top: 30px solid white;
+	border-left: 30px solid transparent;
+  position: absolute;
+  left: 29.1rem;
+  bottom: 6.7rem;
+}
+
+.alf {
+  position: absolute;
+  left: 27rem;
+  bottom: 1rem;
+}
